@@ -1,0 +1,16 @@
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\bin\Debug\net5.0\Exeercício Composição 1.exe
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\bin\Debug\net5.0\Exeercício Composição 1.deps.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\bin\Debug\net5.0\Exeercício Composição 1.runtimeconfig.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\bin\Debug\net5.0\Exeercício Composição 1.runtimeconfig.dev.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\bin\Debug\net5.0\Exeercício Composição 1.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\bin\Debug\net5.0\ref\Exeercício Composição 1.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\bin\Debug\net5.0\Exeercício Composição 1.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.csproj.AssemblyReference.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.AssemblyInfoInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.AssemblyInfo.cs
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.csproj.CoreCompileInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\ref\Exeercício Composição 1.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Exeercício Composição 1\Exeercício Composição 1\obj\Debug\net5.0\Exeercício Composição 1.genruntimeconfig.cache
